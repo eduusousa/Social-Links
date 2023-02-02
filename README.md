@@ -7,7 +7,7 @@
   <p align="left"> Projeto realizado durante a semana da <b>Maratona Explorer 2.0</b>, organizada pela <b>Rocketseat</b>.</p>
   <p align="left"> Neste projeto, criamos um local para colocar os links de nossas redes sociais concentrados em um único lugar.</p>
   
-  - Você pode acessar <a href="https://dus0usa.github.io/Social-Links/">clicando aqui.</a>
+  - Você pode acessar <a href="https://eduusousa.github.io/Social-Links/">clicando aqui.</a>
   
   
 </div>
